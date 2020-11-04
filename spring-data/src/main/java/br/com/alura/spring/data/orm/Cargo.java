@@ -41,6 +41,6 @@ public class Cargo {
 	
 	@Override
 	public String toString() {
-		return "Cargo [id=" + id + ", descricao=" + descricao + ", funcionario=" + funcionario + "]";
+		return "Cargo [id=" + id + ", descricao=" + descricao + "]";
 	}
 }
